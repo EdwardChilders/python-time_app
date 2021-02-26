@@ -1,0 +1,20 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+#container{
+  width: 175px;
+  background-color: red;
+  margin: 0px auto;
+  padding: 10px;
+}
+p{
+  border: solid 2px grey;
+  margin: 0px auto;
+}
+h1{
+  border: solid 2px grey;
+  margin: 0px auto;
+  text-align: center;
+  margin: 10px;
+}
